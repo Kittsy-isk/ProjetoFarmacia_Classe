@@ -1,2 +1,3 @@
-# ProjetoFarmacia_Classe
+# ProjetoFarmacia_Classes
+
 Diagrama de classes
