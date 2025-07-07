@@ -1,0 +1,10 @@
+public class Convenio {
+    private int id_convenio;
+    private int desconto_oferecido;
+    private double CNPJ;
+
+    public Convenio(int id_convenio, int desconto_oferecido, double CNPJ) {
+        this.id_convenio = id_convenio;
+        this.desconto_oferecido = desconto_oferecido;
+        this.CNPJ = CNPJ;
+    }
