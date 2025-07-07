@@ -1,0 +1,16 @@
+public class Fornecedor {
+    private int id_fornecedor;
+    private String nome;
+    private String email;
+    private String CNPJ;
+    private String representante;
+    private double telefone;
+
+    public Fornecedor(int id_fornecedor, String nome, String email, String CNPJ, String representante, double telefone) {
+        this.id_fornecedor = id_fornecedor;
+        this.nome = nome;
+        this.email = email;
+        this.CNPJ = CNPJ;
+        this.representante = representante;
+        this.telefone = telefone;
+    }
